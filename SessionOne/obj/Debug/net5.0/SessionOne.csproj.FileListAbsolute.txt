@@ -1,0 +1,16 @@
+D:\Personals\Codes\Mentorship\SessionOne\bin\Debug\net5.0\SessionOne.exe
+D:\Personals\Codes\Mentorship\SessionOne\bin\Debug\net5.0\SessionOne.deps.json
+D:\Personals\Codes\Mentorship\SessionOne\bin\Debug\net5.0\SessionOne.runtimeconfig.json
+D:\Personals\Codes\Mentorship\SessionOne\bin\Debug\net5.0\SessionOne.runtimeconfig.dev.json
+D:\Personals\Codes\Mentorship\SessionOne\bin\Debug\net5.0\SessionOne.dll
+D:\Personals\Codes\Mentorship\SessionOne\bin\Debug\net5.0\SessionOne.pdb
+D:\Personals\Codes\Mentorship\SessionOne\obj\Debug\net5.0\SessionOne.csproj.AssemblyReference.cache
+D:\Personals\Codes\Mentorship\SessionOne\obj\Debug\net5.0\SessionOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personals\Codes\Mentorship\SessionOne\obj\Debug\net5.0\SessionOne.AssemblyInfoInputs.cache
+D:\Personals\Codes\Mentorship\SessionOne\obj\Debug\net5.0\SessionOne.AssemblyInfo.cs
+D:\Personals\Codes\Mentorship\SessionOne\obj\Debug\net5.0\SessionOne.csproj.CoreCompileInputs.cache
+D:\Personals\Codes\Mentorship\SessionOne\obj\Debug\net5.0\SessionOne.dll
+D:\Personals\Codes\Mentorship\SessionOne\obj\Debug\net5.0\refint\SessionOne.dll
+D:\Personals\Codes\Mentorship\SessionOne\obj\Debug\net5.0\SessionOne.pdb
+D:\Personals\Codes\Mentorship\SessionOne\obj\Debug\net5.0\SessionOne.genruntimeconfig.cache
+D:\Personals\Codes\Mentorship\SessionOne\obj\Debug\net5.0\ref\SessionOne.dll

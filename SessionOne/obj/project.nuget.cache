@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ukgdl/GKUWRrNpyz4JHgwYOHI7ee+k4Obl9R2D0Qjr6pp6R/uWosuwmEserG5RQTHoK54Sm0M63eKvlJ79x8VA==",
+  "success": true,
+  "projectFilePath": "D:\\Personals\\Codes\\Mentorship\\SessionOne\\SessionOne.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Personal\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
